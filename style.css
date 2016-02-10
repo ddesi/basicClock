@@ -1,0 +1,19 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto');
+
+h1 {
+	font-family: "Roboto";
+	font-size: 50px;
+	line-height: 1.2;
+	color: #306692;
+}
+
+#clock {
+	width: 500px;
+	padding: 5px;
+	text-align: center;
+	background-color: #f6f6f6;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+    font-size: 2em;
+    line-height: 1.2;
+}
